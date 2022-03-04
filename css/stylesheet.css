@@ -1,0 +1,205 @@
+html{
+    position:  relative;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position:  relative;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.opacity{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255,255,255,0.1);
+}
+
+.background{
+    position: absolute;
+    width: 600px;
+    height: 350px;
+    left: calc(50% - 300px);
+    top: 10%;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+    padding: 0 33px 0 33px;
+    z-index: 9;
+}
+
+#work_area{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+
+.button_format{
+    position: absolute;
+    padding: 8px 35px 8px 35px;
+    right: 0;
+    bottom: 20px;
+    background: #185b96;
+    color: #fff;
+    border: none;
+    text-align: center;
+    outline: none !important;
+    border-radius: 2px;
+    font-family: Calibri;
+    font-size: 16px;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.2);
+    transition: 0.2s;
+}
+
+.button_format:hover{
+    background: #0f4f86;
+    transition: 0.3s;
+    box-shadow: 0px 0px 11px 4px rgba(0, 0, 0, 0.2);
+}
+
+.button_format:active{
+    background: #07457a;
+    transition: 0.1s;
+}
+
+.head_calc>h4{
+    margin: 0;
+    padding-top: 33px;
+    padding-bottom: 0;
+    font-weight: normal;
+    font-size: 23px;
+}
+
+.head_calc>div{
+    position: relative;
+    width: 30px;
+    height: 2px;
+    margin: 6px 0 0 0;
+    background: #1f67a7;
+}
+
+/* home front page styling */
+
+.roll_select{
+    position: relative;
+    display: block;
+    width: 180px;
+    height: 150px;
+    top: 15%;
+    left: calc(50% - 90px);
+}
+
+.roll_select>i{
+    position: absolute;
+    top: 17%;
+    font-size: 30px;
+    right: 20px;
+    cursor: pointer;
+    transition: 0.1s;
+    color: #4e4e4e
+}
+
+.roll_select>i:active{
+    font-size: 29px;
+    transition: 0.1s;
+}
+
+.roll_select > i:last-of-type {
+    top: 54%;
+}
+
+.roll{
+    position: relative;
+    width: 100px;
+    height: 100%;
+}
+
+.roll>input{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 1px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: black;
+    background: none;
+    border: none
+}
+
+.roll > input:first-of-type {
+    border-bottom: 2px solid #A9A9A9;
+    color: #A9A9A9;
+}
+
+.roll > input:last-of-type {
+    border-top: 2px solid #A9A9A9;
+    color: #A9A9A9;
+}
+
+/* end first page stylization */
+
+/* Start of page 2 styling */
+
+.body_calc>span{
+    position: relative;
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 15px;
+    font-style: italic;
+}
+
+.body_calc>select{
+    position: relative;
+    display: inline-block;
+    width: 205px;
+    height: 40px;
+    margin-right: 15px;
+    border-radius: 5px;
+    border-color: #ccc;
+    background: transparent;
+    text-align: center;
+    text-align-last: center;
+    outline: none !important;
+}
+
+.feedback{
+    position: relative;
+    margin-top: 50px;
+}
+
+.feedback>div{
+    position: relative;
+    display: inline-block;
+    width: 43px;
+    height: 43px;
+    border-radius: 100%;
+    border: 1px solid #1cad7f;
+    text-align: center;
+    line-height: 46px;
+}
+
+.feedback>span{
+    display: inline-block;
+}
+
+.icon{
+    font-size: 16px;
+}
+
+.text{
+    font-size: 16px; 
+    margin-left: 10px;
+}
+
+/* end of page 2 styling */

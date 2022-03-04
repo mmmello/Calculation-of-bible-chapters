@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html lang='pt-br'>
+    <head>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+        <link rel="stylesheet" type="text/css" href="css/stylesheet.css" media="screen" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+        <title>Cálculo de capítulos</title>
+    </head>
+    <body>
+        <div class="opacity"></div>
+        <div class="background">
+			<div id="work_area">
+				<div class='head_calc'>
+					<h4>Capítulos diários</h4>
+					<div></div>
+				</div>
+				<div class="roll_select">
+					<div class="roll">
+						<input id="next" disabled value="6"/>
+						<input id="current" disabled value="5"/>
+						<input id="previous" disabled value="4"/>
+					</div>
+					<i title="Aumentar" id="up" onclick="up()" class="bi bi-arrow-up-circle"></i>
+					<i title="Diminuir" id="down" onclick="down()" class="bi bi-arrow-down-circle"></i>
+				</div>
+				<button title="Próximo" type="button" onclick="click_next()" class="button_format" id="button_page_1"><i class="bi bi-check2"></i>&nbsp;Próximo</button>
+			</div>
+        </div>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	    <script type="text/javascript" src='controller.js'></script>
+    </body>
+</html>
