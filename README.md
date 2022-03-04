@@ -12,20 +12,12 @@ This project was created in order to calculate a Bible reading plan over the cou
 
 
 ### Tecnologias utilizadas
-
+##
 <table>
     <tr>
-        <td>Tecnologias</td>
-        <td>HTML</td>
-        <td>CSS</td>
+        <td>HTML5</td>
+        <td>CSS3</td>
         <td>Javascript</td>
         <td>JQuery</td>
-    </tr>
-    <tr>
-        <td>Versões</td>
-        <td>5.0</td>
-        <td>3.0</td>
-        <td>-</td>
-        <td>3.3.1</td>
     </tr>
 </table>
