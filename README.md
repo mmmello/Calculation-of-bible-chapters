@@ -26,12 +26,6 @@ criar um projeto para facilitar sua vida.
 * Se esta meta de leitura não for suficiente para terminar dentro do ano atual, o sistema deve lhe dizer quantos dias levarão no próximo ano para completar a leitura.
 
 * O sistema deve estar preparado para informar a data correta caso o ano atual seja bissexto. Assim, o usuário terá mais precisão ao calcular o seu plano de leitura.
-
-```bash
-function leap_year(date){
-    return (date.getFullYear() % 4 == 0) ? 29 : 28;
-}
-```
     
 * O sistema deve fornecer o resultado da contagem a partir de um dia após a consulta. Ex.: Se a consulta foi feita 03/04/2022, o sistema calculará a partir de 04/04/2022. Isto porque se o utilizador tiver escolhido um número elevado de capítulos, pode não ser possível completar o objectivo para esse dia, comprometendo a avaliação do plano.
 
@@ -49,3 +43,12 @@ function leap_year(date){
 ## 📂 Acesso ao projeto 
 
 Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Calculation-of-bible-chapters/tree/main/src">aqui</a>.
+
+## 💻 Desenvolvedor
+
+Matheus Mello, 2022.
+<img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<br/>
+
+<i align="center">"Que a força esteja com você"</i>
