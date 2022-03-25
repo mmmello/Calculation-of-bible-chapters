@@ -1,4 +1,4 @@
-<h1 align="center"> Bible Reading Plan Calculator </h1>
+<h1 align="center"> Bible Reading Plan Calculator 📖 </h1>
 
 ### ✔️ Status: Concluído
 
