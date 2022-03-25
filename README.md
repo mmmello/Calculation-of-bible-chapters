@@ -1,12 +1,12 @@
-<h1 align="center"> Bible Reading Plan Calculator 📖 </h1>
+<h1 align="center"> Plano de leitura bíblica 📖 </h1>
 
 <p align="center">
-    <a href="Sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
+    <a href="#Sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
     <a href="">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="">Funcionamento</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="">Path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="">Autor</a>
 </p>
 
@@ -71,4 +71,4 @@ Matheus Mello, 2022
 
 <hr>
 
-<i><h4 align="center">"Que a força esteja com você" 💪</h4></i>
+<i><h4 align="center">"Investir em conhecimento sempre renderá os melhores juros" 💭</h4></i>
