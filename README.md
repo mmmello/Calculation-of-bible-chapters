@@ -37,3 +37,7 @@ criar um projeto para facilitar sua vida.
         <td>JQuery</td>
     </tr>
 </table>
+
+## 📂 Acesso ao projeto 
+
+Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Calculation-of-bible-chapters/tree/main/src">aqui</a>
