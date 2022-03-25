@@ -1,7 +1,7 @@
 <h1 align="center"> Bible Reading Plan Calculator 📖 </h1>
 
 <p align="center">
-    <a href="#sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
+    <a href="Sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
     <a href="">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 <hr>
 
-## 🔎 <a name="#sobre">Sobre</a>
+## 🔎 Sobre
 
 Este projeto foi criado com o objetivo de facilitar e automatizar o cálculo de leitura bíblica ao longo de um ano.
 
@@ -40,7 +40,7 @@ criar um projeto para facilitar sua vida.
 * O sistema deve fornecer o resultado da contagem a partir de um dia após a consulta. Ex.: Se a consulta foi feita 03/04/2022, o sistema calculará a partir de 04/04/2022. Isto porque se o utilizador tiver escolhido um número elevado de capítulos, pode não ser possível completar o objectivo para esse dia, comprometendo a avaliação do plano.
 
 
-## 🚀 <a name="#tecnologias">Tecnologias utilizadas</a>
+## 🚀 Tecnologias utilizadas
 <table>
     <tr>
         <td>HTML5</td>
