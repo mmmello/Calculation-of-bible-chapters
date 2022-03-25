@@ -48,6 +48,11 @@ Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Calculati
 Matheus Mello, 2022
 <br/>
 <br/>
+<a href = "mailto:matheusmello142012@gmail.com" target="_blank">
+      <img title="matheusmello142012@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href = "https://www.linkedin.com/in/matheus-mello-da-silva/" target="_blank">
 <img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <i><h4 align="center">"Que a força esteja com você" 💪</h4></i>
