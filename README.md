@@ -1,12 +1,12 @@
 <h1 align="center"> Bible Reading Plan Calculator 📖 </h1>
 
 <p align="center">
-    <a href="## 🔎 Sobre">Sobre</a> | 
-    <a href="">Ideia</a> | 
-    <a href="">Funcionalidades</a> | 
-    <a href="## 🚀 Tecnologias utilizadas">Tecnologias</a> | 
-    <a href="">Funcionamento</a> | 
-    <a href="">Path</a> | 
+    <a href="## 🔎 Sobre">Sobre</a>  |  
+    <a href="">Ideia</a>  |  
+    <a href="">Funcionalidades</a>  |  
+    <a href="## 🚀 Tecnologias utilizadas">Tecnologias</a>  |  
+    <a href="">Funcionamento</a>  |  
+    <a href="">Path</a>  |  
     <a href="">Autor</a>
 </p>
 
