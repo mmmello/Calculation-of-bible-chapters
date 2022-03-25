@@ -47,6 +47,7 @@ Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Calculati
 ## 💻 Desenvolvedor
 Matheus Mello, 2022.
 <br/>
+<br/>
 <img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <br/>
