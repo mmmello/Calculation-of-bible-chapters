@@ -2,6 +2,8 @@
 
 <hr>
 
+## ✔️ Status: Concluído
+
 ## 🔎 Sobre
 
 Este projeto foi criado com o objetivo de facilitar e automatizar o cálculo de leitura bíblica ao longo de um ano.
