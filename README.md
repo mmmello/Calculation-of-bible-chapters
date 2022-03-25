@@ -52,4 +52,4 @@ Matheus Mello, 2022
 
 <br/>
 
-<h4 align="center">"Que a força esteja com você" 💪</h4>
+<i><h4 align="center">"Que a força esteja com você"</h4></i>💪
