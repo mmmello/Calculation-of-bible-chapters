@@ -55,4 +55,6 @@ Matheus Mello, 2022
 <img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<hr>
+
 <i><h4 align="center">"Que a força esteja com você" 💪</h4></i>
