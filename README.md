@@ -9,12 +9,7 @@ Este projeto foi criado com o objetivo de facilitar e automatizar o cálculo de 
 ## 💡 Ideia do projeto
 
 ```bash
-Em uma conversa com um amigo, percebi sua dificuldade de calcular seu plano de leitura bíblica. Ele me 
-informou que tinha uma determinada quantidade de capítulos que gostaria de ler por dia. Porém, caso ele 
-quisesse variar esse quantidade diária haveria uma certa dificuldade de verificar se com aquela meta 
-ele terminaria dentro daquele mesmo ano, e, além disso, ele também gostaria de saber o dia exato em que 
-ele terminaria de ler. Em caso de ano bissexto o problema se agravava ainda mais. Foi aí que decidi 
-criar um projeto para facilitar sua vida.
+Em uma conversa com um amigo, percebi sua dificuldade de calcular seu plano de leitura bíblica. Ele me informou que tinha uma determinada quantidade de capítulos que gostaria de ler por dia. Porém, caso ele quisesse variar esse quantidade diária haveria uma certa dificuldade de verificar se com aquela meta ele terminaria dentro daquele mesmo ano, e, além disso, ele também gostaria de saber o dia exato em que ele terminaria de ler. Em caso de ano bissexto o problema se agravava ainda mais. Foi aí que decidi criar um projeto para facilitar sua vida.
 ```
 
 ## ⚒️ Funcionalidades
