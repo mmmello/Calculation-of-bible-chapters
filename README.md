@@ -1,13 +1,13 @@
 <h1 align="center"> Plano de leitura bíblica 📖 </h1>
 
 <p align="center">
-    <a href="#Sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
-    <a href="">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="">Funcionamento</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="">Autor</a>
+    <a href="#-sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
+    <a href="#-ideia-do-projeto">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#-funcionamento">Funcionamento</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#-acesso-ao-projeto">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#-desenvolvedor">Autor</a>
 </p>
 
 ### ✔️ Status: Concluído
