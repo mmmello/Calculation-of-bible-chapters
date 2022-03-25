@@ -10,6 +10,8 @@
     <a href="#-desenvolvedor">Autor</a>
 </p>
 
+<img align="center" src="img/site.png"/>
+
 ### ✔️ Status: Concluído
 
 <hr>
