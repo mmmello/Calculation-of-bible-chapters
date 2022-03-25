@@ -25,7 +25,7 @@ criar um projeto para facilitar sua vida.
 
 * O sistema deve estar preparado para informar a data correta caso o ano atual seja bissexto. Assim, o usuário terá mais precisão ao calcular o seu plano de leitura.
     
-* O sistema deve fornecer o resultado da contagem a partir de um dia após a consulta. Ex.: Se a consulta foi feita 04/04/2022, o sistema calculará a partir de 03/04/2022. Isto porque se o utilizador tiver escolhido um número elevado de capítulos, pode não ser possível completar o objectivo para esse dia, comprometendo a avaliação do plano.
+* O sistema deve fornecer o resultado da contagem a partir de um dia após a consulta. Ex.: Se a consulta foi feita 03/04/2022, o sistema calculará a partir de 04/04/2022. Isto porque se o utilizador tiver escolhido um número elevado de capítulos, pode não ser possível completar o objectivo para esse dia, comprometendo a avaliação do plano.
 
 
 ## 🚀 Tecnologias utilizadas
