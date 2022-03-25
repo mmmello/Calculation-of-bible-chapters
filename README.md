@@ -1,7 +1,7 @@
 <h1 align="center"> Bible Reading Plan Calculator 📖 </h1>
 
 <p align="center">
-    <a href="## Sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
+    <a href="#sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
     <a href="">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="## Tecnologias utilizadas">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 <hr>
 
-## 🔎 Sobre
+## 🔎 <a name="#sobre">Sobre</a>
 
 Este projeto foi criado com o objetivo de facilitar e automatizar o cálculo de leitura bíblica ao longo de um ano.
 
