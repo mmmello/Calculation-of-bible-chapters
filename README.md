@@ -10,7 +10,9 @@
     <a href="#-desenvolvedor">Autor</a>
 </p>
 
-<img alt="Imagem do site" src="img/site.png">
+<div align="center">
+    <img alt="Imagem do site" src=".site.png"/>
+</div>
 
 ### ✔️ Status: Concluído
 
