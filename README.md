@@ -1,8 +1,14 @@
-## Bible Reading Plan Calculator
+<h1 style="align: center"> Bible Reading Plan Calculator </h1>
 
-This project was created in order to calculate a Bible reading plan over the course of a year.
+<hr>
 
-* The system asks you for the number of chapters you want to read each day. And, after that, it asks which chapter and verse you will start reading. With this information, it makes a calculation to inform the user of the date he will finish reading.
+## 🔎 Sobre
+
+Em uma conversa com um amigo, percebi sua dificuldade de calcular seu plano de leitura bíblica. Este projeto foi criado com o objetivo de facilitar e automatizar o seu cálculo do plano de leitura ao longo de um ano.
+
+## 🚀 Funcionalidades
+
+* O sistema pede-lhe o número de capítulos que deseja ler todos os dias. E, depois disso, pergunta que capítulo e versículo vai começar a ler. Com esta informação, faz um cálculo para informar o usuário sobre a data em que terminará a leitura.
 
 * If this reading goal is not enough to finish within the current year, the system tells you how many days it will take next year to complete the reading.
 
@@ -11,8 +17,7 @@ This project was created in order to calculate a Bible reading plan over the cou
 * The system starts counting one day after the query day. Ex.: If the query was made on 03/04/2022, the system will calculate from 03/05/2022. This is because if the user has chosen a high number of chapters, it may not be possible to complete the goal for that day, compromising the plan's evaluation.
 
 
-### Tecnologias utilizadas
-##
+## Tecnologias utilizadas
 <table>
     <tr>
         <td>HTML5</td>
