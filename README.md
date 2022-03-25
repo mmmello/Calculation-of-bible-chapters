@@ -8,13 +8,13 @@ Em uma conversa com um amigo, percebi sua dificuldade de calcular seu plano de l
 
 ## ⚒️ Funcionalidades
 
-* O sistema pede-lhe o número de capítulos que deseja ler todos os dias. E, depois disso, pergunta que capítulo e versículo vai começar a ler. Com esta informação, faz um cálculo para informar o usuário sobre a data em que terminará a leitura.
+* [x] O sistema pede-lhe o número de capítulos que deseja ler todos os dias. E, depois disso, pergunta que capítulo e versículo vai começar a ler. Com esta informação, faz um cálculo para informar o usuário sobre a data em que terminará a leitura.
 
-* If this reading goal is not enough to finish within the current year, the system tells you how many days it will take next year to complete the reading.
+* [x] Se este objetivo de leitura não for suficiente para terminar dentro do ano atual, o sistema diz-lhe quantos dias levará no próximo ano para completar a leitura.
 
-* The system has a leap year check. Thus, the user will have more precision when calculating his reading plan.
+* [x] O sistema deve estar preparado para informar a data correta caso o ano atual seja bissexto. Assim, o usuário terá mais precisão ao calcular o seu plano de leitura.
     
-* The system starts counting one day after the query day. Ex.: If the query was made on 03/04/2022, the system will calculate from 03/05/2022. This is because if the user has chosen a high number of chapters, it may not be possible to complete the goal for that day, compromising the plan's evaluation.
+* [x] O sistema deve fornecer o resultado da contagem a partir de um dia após a consulta. Ex.: Se a consulta foi feita 03/04/2022, o sistema calculará a partir de 03/05/2022. Isto porque se o utilizador tiver escolhido um número elevado de capítulos, pode não ser possível completar o objectivo para esse dia, comprometendo a avaliação do plano.
 
 
 ## 🚀 Tecnologias utilizadas
