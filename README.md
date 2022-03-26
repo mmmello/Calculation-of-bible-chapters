@@ -1,19 +1,19 @@
 <h1 align="center"> Plano de leitura bíblica 📖 </h1>
 
 <p align="center">
-    <a href="#-sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
-    <a href="#-ideia-do-projeto">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-funcionamento">Funcionamento</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-acesso-ao-projeto">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-desenvolvedor">Autor</a>
+    <a title="Sobre" href="#-sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
+    <a title="Ideia" href="#-ideia-do-projeto">Ideia</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Funcionalidades" href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Tecnologias" href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Funcionamento" href="#-funcionamento">Funcionamento</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="path" href="#-acesso-ao-projeto">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Autor" href="#-desenvolvedor">Autor</a>
 </p>
 <div align="center">
-    <img alt="Badge sobre tamanho do projeto" title="822KB" src="https://img.shields.io/badge/REPO%20SIZE-822KB-blue"/>&nbsp;
-    <img alt="Badge sobre tecnologias do projeto" title="3 linguagens" src="https://img.shields.io/badge/TECNOLOGIAS-3-blue"/>&nbsp;
+    <img alt="Badge sobre tamanho do projeto" title="REPO SIZE - 822KB" src="https://img.shields.io/badge/REPO%20SIZE-822KB-blue"/>&nbsp;
+    <img alt="Badge sobre tecnologias do projeto" title="TECNOLOGIAS - 3" src="https://img.shields.io/badge/TECNOLOGIAS-3-blue"/>&nbsp;
     <a href="https://github.com/mmmello">
-        <img alt="Badge sobre autoria do projeto" title="3 linguagens" src="https://img.shields.io/badge/AUTOR-MATHEUS%20MELLO-brightgreen"/>
+        <img alt="Badge sobre autoria do projeto" title="AUTOR - MATHEUS MELLO" src="https://img.shields.io/badge/AUTOR-MATHEUS%20MELLO-brightgreen"/>
     </a>
 </div>
 <br/>
