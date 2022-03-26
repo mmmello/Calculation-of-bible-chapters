@@ -56,7 +56,7 @@ criar um projeto para facilitar sua vida.
 
 ## 📷 Funcionamento
 
-img
+<img alt="Gif do funcionamento do programa" src="#"/>
 
 ## 📂 Acesso ao projeto 
 
