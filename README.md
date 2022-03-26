@@ -9,9 +9,9 @@
     <a href="#-acesso-ao-projeto">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#-desenvolvedor">Autor</a>
 </p>
-
+<br/>
 <div align="center">
-    <img alt="Imagem do site" src=".site.png"/>
+    <img alt="Imagem do site" src="src/img/site.png"/>
 </div>
 
 ### ✔️ Status: Concluído
