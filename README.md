@@ -67,6 +67,10 @@ criar um projeto para facilitar sua vida.
     <img alt="Gif do funcionamento do programa" src="src/img/funcionamento_part1.gif"/>
 </div>
 
+<div align="center">
+    <img alt="Gif do funcionamento do programa" src="src/img/funcionamento_part2.gif"/>
+</div>
+
 ## 📂 Acesso ao projeto 
 
 Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Calculation-of-bible-chapters/tree/main/src">aqui</a>.
