@@ -18,7 +18,7 @@
 </div>
 <br/>
 <div align="center">
-    <img alt="Imagem do site" src="src/img/github_funcionamento.gif"/>
+    <img alt="Imagem do site" src="src/img/site.png"/>
 </div>
 
 ### ✔️ Status: Concluído
