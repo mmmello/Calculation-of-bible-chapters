@@ -18,7 +18,7 @@
 </div>
 <br/>
 <div align="center">
-    <img alt="Imagem do site" src="src/img/site.png"/>
+    <img alt="Imagem do site" src="src/img/github_funcionamento.gif"/>
 </div>
 
 ### ✔️ Status: Concluído
@@ -63,7 +63,9 @@ criar um projeto para facilitar sua vida.
 
 ## 📷 Funcionamento
 
-<img alt="Gif do funcionamento do programa" src="src/img/github.gif"/>
+<div align="center">
+    <img alt="Gif do funcionamento do programa" src="src/img/funcionamento_part1.gif"/>
+</div>
 
 ## 📂 Acesso ao projeto 
 
