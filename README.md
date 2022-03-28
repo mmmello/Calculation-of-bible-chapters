@@ -63,7 +63,7 @@ criar um projeto para facilitar sua vida.
 
 ## 📷 Funcionamento
 
-<img alt="Gif do funcionamento do programa" src="#"/>
+<img alt="Gif do funcionamento do programa" src="src/img/github.gif"/>
 
 ## 📂 Acesso ao projeto 
 
