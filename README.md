@@ -10,7 +10,7 @@
     <a title="Autor" href="#-desenvolvedor">Autor</a>
 </p>
 <div align="center">
-    <img alt="Badge sobre tamanho do projeto" title="REPO SIZE - 822KB" src="https://img.shields.io/badge/REPO%20SIZE-822KB-blue"/>&nbsp;
+    <img alt="Badge sobre tamanho do projeto" title="REPO SIZE - 822KB" src="https://img.shields.io/badge/REPO%20SIZE-4%2C62MB-blue"/>&nbsp;
     <img alt="Badge sobre tecnologias do projeto" title="TECNOLOGIAS - 4" src="https://img.shields.io/badge/TECNOLOGIAS-4-blue"/>&nbsp;
     <a href="https://github.com/mmmello">
         <img alt="Badge sobre autoria do projeto" title="AUTOR - MATHEUS MELLO" src="https://img.shields.io/badge/AUTOR-MATHEUS%20MELLO-brightgreen"/>
